@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 *{margin:0; padding:0;}
-.top{width:1440px;height:120px;
+.top{width:960px;height:120px;
 	margin:0 auto;
 	background-image:url(../images/top.png); background-repeat:no-repeat; background-position:center;}
 #about{width:960px;height:500px;
